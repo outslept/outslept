@@ -1,8 +1,8 @@
 <p align="center">
   <samp>
-    <a href="#">enu</a> .
+    <a href="#">gene</a> .
     <a href="#">projects</a> .
-    <a href="https://x.com/webgn1">x</a> .
+    <a href="https://x.com/imoutslept">x</a> .
     <a href="https://destroy2create.t.me">telegram</a> .
     <a href="https://bsky.app/profile/outslept.bsky.social">bluesky</a>
   </samp>
